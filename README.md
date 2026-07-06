@@ -103,6 +103,7 @@ A verification platform where certificates can be checked instantly via **QR cod
 - Separate student dashboard for verification access
 
 **Repository:** [github.com/aribashaikh02/vericert](https://github.com/aribashaikh02/vericert)
+**Website:** [VeriCert](https://aribashaikh02.github.io/vericert/)
 
 </details>
 
