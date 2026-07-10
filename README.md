@@ -80,7 +80,7 @@ My work right now centers on:
 
 ## <img src="https://img.shields.io/badge/-Featured%20Project-1a0000?style=flat-square"/>
 
-<details open>
+<details>
 <summary><b>🔐 vericert — Digital Certificate Verification System</b></summary>
 <br/>
 
@@ -104,6 +104,33 @@ A verification platform where certificates can be checked instantly via **QR cod
 
 **Repository:** [github.com/aribashaikh02/vericert](https://github.com/aribashaikh02/vericert)
 **Website:** [VeriCert](https://aribashaikh02.github.io/vericert/)
+
+</details>
+
+<details>
+<summary><b>📸 screenshot-generator — Website Screenshot Generator</b></summary>
+<br/>
+
+**Overview**
+A web-based tool for capturing full-page or viewport screenshots of any website by simply entering a URL — built to make it easy to grab a quick visual snapshot of a site without manual screen-capturing tools.
+
+**Problem**
+Manually taking website screenshots is tedious, inconsistent across devices/browsers, and doesn't scale — developers, testers, and content creators often need a fast way to capture a page as-is.
+
+**Solution**
+A simple Flask-based web app where users submit a URL, choose options like format and full-page capture, and the app calls the ScreenshotBase API, retrieves the image, saves it, and displays a live preview in the browser.
+
+**Technology Stack**
+ `Python`(Flask) · HTML · Jinja2 · Bootstrap (CDN) · Gunicorn
+
+**Core Features**
+- URL-to-screenshot capture via the ScreenshotBase API
+- Configurable format and full-page capture options
+- Instant in-browser preview of the generated screenshot
+- Lightweight single-app Flask backend, easy to deploy
+
+**Repository:** [github.com/aribashaikh02/screenshot-generator-website](https://github.com/aribashaikh02/screenshot-generator-website)
+**Website:** [Website Screenshot Generator](https://screenshot-generator-website.onrender.com/)
 
 </details>
 
