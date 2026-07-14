@@ -168,19 +168,8 @@ A simple Flask-based web app where users submit a URL, choose options like forma
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=aribashaikh02&show_icons=true&theme=radical&hide_border=true&bg_color=1a0000&title_color=F87171&icon_color=EF4444&text_color=FEE2E2" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=aribashaikh02&theme=radical&hide_border=true&background=1a0000&ring=EF4444&fire=F87171&currStreakLabel=FEE2E2" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=aribashaikh02&theme=radical&hide_border=true&background=1a0000&ring=EF4444&fire=F87171&currStreakLabel=FEE2E2" width="60%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aribashaikh02&layout=compact&theme=radical&hide_border=true&bg_color=1a0000&title_color=F87171&text_color=FEE2E2" width="50%"/>
-
-</div>
-
-<br/>
-
-## <img src="https://img.shields.io/badge/-GitHub%20Trophies-1a0000?style=flat-square"/>
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=aribashaikh02&theme=dracula&no-frame=true&column=4&margin-w=8&margin-h=8&title=Contributor,Stars,Followers,Repositories"/>
 </div>
 
 <br/>
