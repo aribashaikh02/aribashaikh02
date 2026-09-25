@@ -142,8 +142,6 @@ A simple Flask-based web app where users submit a URL, choose options like forma
 |---|---|
 | [Python](https://github.com/aribashaikh02/Python) | Python fundamentals and scripting practice |
 | [JavaScript](https://github.com/aribashaikh02/JavaScript) | JavaScript exercises, algorithms, and projects |
-| [HTML-CSS](https://github.com/aribashaikh02/HTML-CSS) | Frontend fundamentals — layout, styling, and markup practice |
-| [HTML](https://github.com/aribashaikh02/HTML) | Core HTML structure and markup exercises |
 | [leetcode](https://github.com/aribashaikh02/leetcode) | Problem-solving and data structures & algorithms practice |
 
 </details>
