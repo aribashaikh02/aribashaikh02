@@ -33,10 +33,10 @@ I'm a Cybersecurity student at **Ajeenkya DY Patil University** (B.Tech in Cyber
 
 My work right now centers on:
 
-- 🎨 **Frontend Development** — building interfaces with HTML, CSS, and expanding into modern JavaScript frameworks
+- 🎨 **Frontend Development** — building responsive, interactive, and user-friendly web interfaces using HTML, CSS, JavaScript, and modern frontend technologies, with a focus on clean design, accessibility, and seamless user experiences.
 - 🔐 **Cybersecurity Fundamentals** — the core of my degree, shaping how I think about secure application design
 - 🌱 **Open Source** — contributing to community projects and learning collaborative development workflows
-- 🧭 **A clear roadmap** — moving deliberately from frontend fundamentals toward JavaScript, React, Node.js, and eventually backend development
+- 🧭 **A clear roadmap** — having mastered frontend development with HTML, CSS, JavaScript, and Next.js, I’m now focused on deepening my Cybersecurity expertise while expanding into backend development, full-stack engineering, and secure application development
 
 **Open to:** Internships · Freelance Work · Open Source Collaboration · Hackathons
 
@@ -67,12 +67,12 @@ My work right now centers on:
 
 | Domain | Status | Details |
 |---|---|---|
-| Frontend Development | 🔴 Active | HTML & CSS foundations, moving into JavaScript and React |
-| Cybersecurity | 🔴 Core Discipline | Studied through B.Tech coursework in Cyber Forensics & Internet Security |
-| Version Control | 🔴 Active | Git & GitHub for daily project and collaboration workflows |
-| Full Stack Development | 🟠 In Progress | Learning JavaScript, React, and Node.js |
-| Backend & Java | ⚪ Planned | Next stage of the learning roadmap |
-| AI/ML | ⚪ Future Goal | Long-term area of interest after full-stack fundamentals |
+| Frontend Development | 🟢 Mastered | HTML, CSS, JavaScript, and Next.js; building responsive, interactive web interfaces |
+| Cybersecurity | 🔴 Core Discipline | Pursuing B.Tech in Cyber Forensics & Internet Security, strengthening core security concepts |
+| Version Control | 🔴 Active | Git & GitHub for project management, collaboration, and open-source contributions |
+| Full Stack Development | 🟠 In Progress | Expanding into backend development and building full-stack applications |
+| Backend & Python | 🟠 In Progress | Exploring Node.js, Python, backend architecture, APIs, and security automation |
+| AI/ML | ⚪ Future Goal | Long-term interest in AI/ML after strengthening full-stack and cybersecurity fundamentals |
 
 </div>
 
@@ -141,6 +141,7 @@ A simple Flask-based web app where users submit a URL, choose options like forma
 | Repository | Focus |
 |---|---|
 | [leetcode](https://github.com/aribashaikh02/leetcode) | Problem-solving and data structures & algorithms practice |
+| [Cybersecurity-Project-Lab](https://github.com/aribashaikh02/Cybersecurity-Project-Lab) | Hands-on cybersecurity projects, security tools, and practical security experiments |
 
 </details>
 
@@ -154,6 +155,7 @@ A simple Flask-based web app where users submit a URL, choose options like forma
 |---|---|---|
 | Frontend Developer Intern | **Sankalp** | University-sponsored internship |
 | Frontend Developer Intern | **FortVerse** | University-sponsored internship |
+| Frontend Developer Intern | **TalentPlay** | Startup internship |
 | Open Source Contributor | [Code-Not-Found](https://github.com/Shubhajit137/Code-Not-Found) | Open source contribution |
 
 </div>
@@ -187,20 +189,26 @@ A simple Flask-based web app where users submit a URL, choose options like forma
 ## <img src="https://img.shields.io/badge/-Currently-1a0000?style=flat-square"/>
 
 ```yaml
-learning:
-  - JavaScript
-  - React
-  - Node.js
 
 building:
-  - Frontend projects with modern JavaScript
+  - Responsive web applications with HTML, CSS, JavaScript, and Next.js
+  - Cybersecurity projects focused on practical security concepts
+  - Security tools and automation scripts using Python
 
 exploring:
   - Full Stack Development
-  - Cybersecurity practices in web development
+  - Web Application Security
+  - Ethical Hacking and Penetration Testing
+  - Digital Forensics and Incident Response
+  - Network Security and Vulnerability Assessment
+  - Backend Development with Node.js and Python
 
 currently_working_on:
-  - Strengthening frontend fundamentals
+  - Strengthening backend fundamentals and API integration
+  - Building hands-on cybersecurity projects
+  - Applying secure coding practices to web applications
+  - Practicing ethical hacking in authorized lab environments
+  - Improving Git and GitHub workflows
   - Contributing to open source
 
 open_to:
