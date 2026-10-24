@@ -184,7 +184,7 @@ Internships · Freelance projects · Open-source collaboration · Hackathons
 </div>
 
 <details>
-<summary align="center"><strong><span style="color:#e05a70">CASE 001 — VeriCert</span></strong> &nbsp; · &nbsp; Digital Certificate Verification System &nbsp; <code>↗ Expand case file</code></summary>
+<summary><strong><span style="color:#e05a70">CASE 001 — VeriCert</span></strong> &nbsp; · &nbsp; Digital Certificate Verification System &nbsp; <code>↗ Expand case file</code></summary>
 <div align="center">
 
 <br/>
@@ -205,7 +205,7 @@ A web-based certificate verification concept designed to make authenticity check
 </details>
 
 <details>
-<summary align="center"><strong><span style="color:#e05a70">CASE 002 — Website Screenshot Generator</span></strong> &nbsp; · &nbsp; Flask web tool &nbsp; <code>↗ Expand case file</code></summary>
+<summary><strong><span style="color:#e05a70">CASE 002 — Website Screenshot Generator</span></strong> &nbsp; · &nbsp; Flask web tool &nbsp; <code>↗ Expand case file</code></summary>
 <div align="center">
 
 <br/>
@@ -226,7 +226,7 @@ A Flask-based web tool that accepts a URL, requests a screenshot through the Scr
 </details>
 
 <details>
-<summary align="center"><strong><span style="color:#e05a70">CASE 003 — Cybersecurity Project Lab</span></strong> &nbsp; · &nbsp; Security learning lab &nbsp; <code>↗ Expand case file</code></summary>
+<summary><strong><span style="color:#e05a70">CASE 003 — Cybersecurity Project Lab</span></strong> &nbsp; · &nbsp; Security learning lab &nbsp; <code>↗ Expand case file</code></summary>
 <div align="center">
 
 <br/>
@@ -239,7 +239,7 @@ A learning space for practical cybersecurity projects, tools, and experiments as
 </details>
 
 <details>
-<summary align="center"><strong><span style="color:#e05a70">CASE 004 — Problem-Solving Practice</span></strong> &nbsp; · &nbsp; Coding exercises &nbsp; <code>↗ Expand case file</code></summary>
+<summary><strong><span style="color:#e05a70">CASE 004 — Problem-Solving Practice</span></strong> &nbsp; · &nbsp; Coding exercises &nbsp; <code>↗ Expand case file</code></summary>
 <div align="center">
 
 <br/>
