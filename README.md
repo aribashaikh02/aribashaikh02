@@ -1,6 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:090909,35:24070a,70:7f101b,100:ef233c&height=190&section=header&text=ARIBA%20SHAIKH&fontSize=58&fontColor=fff1f2&fontAlignY=43&animation=twinkling&desc=CYBER%20FORENSICS%20%2F%20FRONTEND%20ENGINEERING&descSize=13&descAlignY=65&descColor=fb7185"/>
+<img width="100%" src="./assets/security-sigil-animation.gif" alt="Animated cyber-forensics security sigil with subtle crimson circuit animation"/>
+
+<sub>CYBER FORENSICS · FRONTEND ENGINEERING · OPEN SOURCE</sub>
 
 <br/>
 
@@ -206,6 +208,9 @@ A simple Flask-based web app where users submit a URL, choose options like forma
 <img width="72%" src="https://github-readme-streak-stats.herokuapp.com/?user=aribashaikh02&theme=radical&hide_border=true&background=11090b&ring=ef233c&fire=fb7185&currStreakLabel=fda4af&sideLabels=fda4af&currStreakNum=fff1f2&sideNums=fff1f2&dates=9f7b80" alt="GitHub contribution streak"/>
 
 <br/><br/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=aribashaikh02&theme=redical&hide_border=true&bg_color=11090b&color=fda4af&line=ef233c&point=fff1f2&area=true&area_color=7f101b" alt="GitHub contribution activity graph"/>
+
 </div>
 
 ### `CONTRIBUTION TRACE`
