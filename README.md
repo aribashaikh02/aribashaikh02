@@ -30,7 +30,7 @@
 
 <div align="center">
 
-### `01 — THE OPERATOR`
+#<h2><span style="color:#e05a70">`01 — THE OPERATOR`</span></h2>
 
 **Frontend developer in progress. Cybersecurity at the core.**
 
@@ -72,32 +72,32 @@ Git · GitHub · Projects · Hackathons
 
 ---
 
-## `02 — QUICK SCAN`
+<h2><span style="color:#e05a70">`02 — QUICK SCAN`</span></h2>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**EDUCATION**
+<strong><span style="color:#e05a70">EDUCATION</span></strong>
 
 B.Tech — Cyber Forensics & Internet Security  
 Ajeenkya DY Patil University
 
-**CURRENT FOCUS**
+<strong><span style="color:#e05a70">CURRENT FOCUS</span></strong>
 
 Frontend development, secure application design, and backend fundamentals.
 
 </td>
 <td width="50%" valign="top">
 
-**EXPERIENCE**
+<strong><span style="color:#e05a70">EXPERIENCE</span></strong>
 
 Frontend Developer Intern — TalentPlay  
 Frontend Developer Intern — Sankalp  
 Frontend Developer Intern — FortVerse  
 Open Source Contributor — Code-Not-Found
 
-**OPEN TO**
+<strong><span style="color:#e05a70">OPEN TO</span></strong>
 
 Internships · Freelance projects · Open-source collaboration · Hackathons
 
@@ -109,20 +109,20 @@ Internships · Freelance projects · Open-source collaboration · Hackathons
 
 ---
 
-## `03 — TOOLKIT`
+<h2><span style="color:#e05a70">`03 — TOOLKIT`</span></h2>
 
 <div align="center">
 
-**CORE TOOLS**
+<strong><span style="color:#e05a70">CORE TOOLS</span></strong>
 
 <img src="https://skillicons.dev/icons?i=html,css,python,git,github&theme=dark" alt="HTML, CSS, Python, Git, GitHub"/>
 
-**CURRENTLY EXPANDING**
+<strong><span style="color:#e05a70">CURRENTLY EXPANDING</span></strong>
 
 <img src="https://skillicons.dev/icons?i=js,react,nodejs,java&theme=dark" alt="JavaScript, React, Node.js, Java"/>
 
 </div>
-<br>
+
 <table>
 <tr>
 <td width="33%" valign="top">
@@ -164,82 +164,71 @@ Internships · Freelance projects · Open-source collaboration · Hackathons
 
 ---
 
-## `04 — FEATURED BUILDS`
+<h2><span style="color:#e05a70">`04 — FEATURED BUILDS`</span></h2>
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<details>
+<summary><strong><span style="color:#e05a70">CASE 001 — VeriCert</span></strong> &nbsp; · &nbsp; Digital Certificate Verification System &nbsp; <code>↗ Expand case file</code></summary>
 
-### `CASE 001`
-
-### VeriCert
-
-**Digital Certificate Verification System**
+<br/>
 
 A web-based certificate verification concept designed to make authenticity checks easier and help identify tampered records.
 
-**Highlights**
+<strong><span style="color:#f28a9a">Case highlights</span></strong>
 - QR-based certificate validation
 - Hash-integrity checks
 - Admin certificate management
 - Student verification flow
 
-`JavaScript` `HTML` `CSS`
+<strong><span style="color:#f28a9a">Stack:</span></strong> `JavaScript` `HTML` `CSS`
 
-[**VIEW REPOSITORY ↗**](https://github.com/aribashaikh02/vericert)  
-[Live website ↗](https://aribashaikh02.github.io/vericert/)
+[**VIEW REPOSITORY ↗**](https://github.com/aribashaikh02/vericert) &nbsp; · &nbsp; [Live website ↗](https://aribashaikh02.github.io/vericert/)
 
-</td>
-<td width="50%" valign="top">
+</details>
 
-### `CASE 002`
+<details>
+<summary><strong><span style="color:#e05a70">CASE 002 — Website Screenshot Generator</span></strong> &nbsp; · &nbsp; Flask web tool &nbsp; <code>↗ Expand case file</code></summary>
 
-### Website Screenshot Generator
+<br/>
 
 A Flask-based web tool that accepts a URL, requests a screenshot through the ScreenshotBase API, and displays the generated image.
 
-**Highlights**
+<strong><span style="color:#f28a9a">Case highlights</span></strong>
 - URL-to-screenshot workflow
 - Format and full-page options
 - In-browser preview
 - Lightweight Flask app
 
-`Python` `Flask` `Jinja2` `Bootstrap`
+<strong><span style="color:#f28a9a">Stack:</span></strong> `Python` `Flask` `Jinja2` `Bootstrap`
 
-[**VIEW REPOSITORY ↗**](https://github.com/aribashaikh02/screenshot-generator-website)  
-[Live website ↗](https://screenshot-generator-website.onrender.com/)
+[**VIEW REPOSITORY ↗**](https://github.com/aribashaikh02/screenshot-generator-website) &nbsp; · &nbsp; [Live website ↗](https://screenshot-generator-website.onrender.com/)
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+</details>
 
-### `CASE 003`
+<details>
+<summary><strong><span style="color:#e05a70">CASE 003 — Cybersecurity Project Lab</span></strong> &nbsp; · &nbsp; Security learning lab &nbsp; <code>↗ Expand case file</code></summary>
 
-### Cybersecurity Project Lab
+<br/>
 
 A learning space for practical cybersecurity projects, tools, and experiments as the security portfolio grows.
 
 [**OPEN PROJECT LAB ↗**](https://github.com/aribashaikh02/Cybersecurity-Project-Lab)
 
-</td>
-<td width="50%" valign="top">
+</details>
 
-### `CASE 004`
+<details>
+<summary><strong><span style="color:#e05a70">CASE 004 — Problem-Solving Practice</span></strong> &nbsp; · &nbsp; Coding exercises &nbsp; <code>↗ Expand case file</code></summary>
 
-### Problem-Solving Practice
+<br/>
 
 A collection of coding practice and algorithm exercises to build consistency and strengthen problem-solving fundamentals.
 
 [**OPEN LEETCODE REPO ↗**](https://github.com/aribashaikh02/leetcode)
 
-</td>
-</tr>
-</table>
+</details>
 
 ---
 
-## `05 — EXPERIENCE LOG`
+<h2><span style="color:#e05a70">`05 — EXPERIENCE LOG`</span></h2>
 
 <table>
 <tr>
@@ -276,7 +265,7 @@ University-sponsored internship
 
 ---
 
-## `06 — GITHUB SIGNAL`
+<h2><span style="color:#e05a70">`06 — GITHUB SIGNAL`</span></h2>
 
 <div align="center">
 
@@ -287,19 +276,17 @@ University-sponsored internship
 
 <img width="78%" src="https://github-readme-streak-stats.herokuapp.com/?user=aribashaikh02&theme=radical&hide_border=true&background=11090b&ring=ef233c&fire=fb7185&currStreakLabel=fda4af&sideLabels=fda4af&currStreakNum=fff1f2&sideNums=fff1f2&dates=9f7b80" alt="GitHub contribution streak"/>
 
-<br/><br/>
-
 </div>
 
 ---
 
-## `07 — CURRENT QUESTS`
+<h2><span style="color:#e05a70">`07 — CURRENT QUESTS`</span></h2>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**IN THE WORKSHOP**
+<strong><span style="color:#e05a70">IN THE WORKSHOP</span></strong>
 
 - Build responsive web applications
 - Create practical cybersecurity projects
@@ -310,7 +297,7 @@ University-sponsored internship
 </td>
 <td width="50%" valign="top">
 
-**ON THE RADAR**
+<strong><span style="color:#e05a70">ON THE RADAR</span></strong>
 
 - Full-stack development
 - Web application security
@@ -328,7 +315,7 @@ University-sponsored internship
 
 <div align="center">
 
-## `08 — OPEN CHANNEL`
+<h2><span style="color:#e05a70">`08 — OPEN CHANNEL`</span></h2>
 
 **Have a project, security idea, or open-source issue? Let's connect.**
 
