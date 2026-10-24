@@ -122,7 +122,7 @@ Internships · Freelance projects · Open-source collaboration · Hackathons
 <img src="https://skillicons.dev/icons?i=js,react,nodejs,java&theme=dark" alt="JavaScript, React, Node.js, Java"/>
 
 </div>
-
+<br>
 <table>
 <tr>
 <td width="33%" valign="top">
@@ -288,8 +288,6 @@ University-sponsored internship
 <img width="78%" src="https://github-readme-streak-stats.herokuapp.com/?user=aribashaikh02&theme=radical&hide_border=true&background=11090b&ring=ef233c&fire=fb7185&currStreakLabel=fda4af&sideLabels=fda4af&currStreakNum=fff1f2&sideNums=fff1f2&dates=9f7b80" alt="GitHub contribution streak"/>
 
 <br/><br/>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=aribashaikh02&theme=redical&hide_border=true&bg_color=11090b&color=fda4af&line=ef233c&point=fff1f2&area=true&area_color=7f101b" alt="GitHub contribution activity graph"/>
 
 </div>
 
