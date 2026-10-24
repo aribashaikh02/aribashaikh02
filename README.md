@@ -30,13 +30,15 @@
 
 <div align="center">
 
-#<h2><span style="color:#e05a70">`01 — THE OPERATOR`</span></h2>
+#<div align="center">
+<h2><span style="color:#e05a70">01 — THE OPERATOR</span></h2>
+</div>
 
 **Frontend developer in progress. Cybersecurity at the core.**
 
 I build thoughtful web experiences and study the systems that keep them trustworthy. My focus is growing from frontend development into full-stack engineering, while developing a practical foundation in cyber forensics and application security.
 
-<table>
+<table align="center">
 <tr>
 <td align="center" width="33%">
 
@@ -72,12 +74,15 @@ Git · GitHub · Projects · Hackathons
 
 ---
 
-<h2><span style="color:#e05a70">`02 — QUICK SCAN`</span></h2>
+<div align="center">
+<h2><span style="color:#e05a70">02 — QUICK SCAN</span></h2>
+</div>
 
-<table>
+<table align="center">
 <tr>
 <td width="50%" valign="top">
 
+<div align="center">
 <strong><span style="color:#e05a70">EDUCATION</span></strong>
 
 B.Tech — Cyber Forensics & Internet Security  
@@ -86,10 +91,12 @@ Ajeenkya DY Patil University
 <strong><span style="color:#e05a70">CURRENT FOCUS</span></strong>
 
 Frontend development, secure application design, and backend fundamentals.
+</div>
 
 </td>
 <td width="50%" valign="top">
 
+<div align="center">
 <strong><span style="color:#e05a70">EXPERIENCE</span></strong>
 
 Frontend Developer Intern — TalentPlay  
@@ -100,16 +107,21 @@ Open Source Contributor — Code-Not-Found
 <strong><span style="color:#e05a70">OPEN TO</span></strong>
 
 Internships · Freelance projects · Open-source collaboration · Hackathons
+</div>
 
 </td>
 </tr>
 </table>
 
+<div align="center">
 > *My north star: build interfaces people enjoy using, understand the systems underneath, and keep security in the room from day one.*
+</div>
 
 ---
 
-<h2><span style="color:#e05a70">`03 — TOOLKIT`</span></h2>
+<div align="center">
+<h2><span style="color:#e05a70">03 — TOOLKIT</span></h2>
+</div>
 
 <div align="center">
 
@@ -123,11 +135,11 @@ Internships · Freelance projects · Open-source collaboration · Hackathons
 
 </div>
 
-<table>
+<table align="center">
 <tr>
 <td width="33%" valign="top">
 
-**01 / FRONTEND**
+<strong><span style="color:#e05a70">01 / FRONTEND</span></strong>
 
 - HTML & CSS
 - JavaScript
@@ -138,7 +150,7 @@ Internships · Freelance projects · Open-source collaboration · Hackathons
 </td>
 <td width="33%" valign="top">
 
-**02 / SECURITY**
+<strong><span style="color:#e05a70">02 / SECURITY</span></strong>
 
 - Cybersecurity fundamentals
 - Secure coding mindset
@@ -149,7 +161,7 @@ Internships · Freelance projects · Open-source collaboration · Hackathons
 </td>
 <td width="34%" valign="top">
 
-**03 / BUILD & LEARN**
+<strong><span style="color:#e05a70">03 / BUILD &amp; LEARN</span></strong>
 
 - Python
 - Git & GitHub
@@ -164,10 +176,13 @@ Internships · Freelance projects · Open-source collaboration · Hackathons
 
 ---
 
-<h2><span style="color:#e05a70">`04 — FEATURED BUILDS`</span></h2>
+<div align="center">
+<h2><span style="color:#e05a70">04 — FEATURED BUILDS</span></h2>
+</div>
 
 <details>
 <summary><strong><span style="color:#e05a70">CASE 001 — VeriCert</span></strong> &nbsp; · &nbsp; Digital Certificate Verification System &nbsp; <code>↗ Expand case file</code></summary>
+<div align="center">
 
 <br/>
 
@@ -183,10 +198,12 @@ A web-based certificate verification concept designed to make authenticity check
 
 [**VIEW REPOSITORY ↗**](https://github.com/aribashaikh02/vericert) &nbsp; · &nbsp; [Live website ↗](https://aribashaikh02.github.io/vericert/)
 
+</div>
 </details>
 
 <details>
 <summary><strong><span style="color:#e05a70">CASE 002 — Website Screenshot Generator</span></strong> &nbsp; · &nbsp; Flask web tool &nbsp; <code>↗ Expand case file</code></summary>
+<div align="center">
 
 <br/>
 
@@ -202,10 +219,12 @@ A Flask-based web tool that accepts a URL, requests a screenshot through the Scr
 
 [**VIEW REPOSITORY ↗**](https://github.com/aribashaikh02/screenshot-generator-website) &nbsp; · &nbsp; [Live website ↗](https://screenshot-generator-website.onrender.com/)
 
+</div>
 </details>
 
 <details>
 <summary><strong><span style="color:#e05a70">CASE 003 — Cybersecurity Project Lab</span></strong> &nbsp; · &nbsp; Security learning lab &nbsp; <code>↗ Expand case file</code></summary>
+<div align="center">
 
 <br/>
 
@@ -213,10 +232,12 @@ A learning space for practical cybersecurity projects, tools, and experiments as
 
 [**OPEN PROJECT LAB ↗**](https://github.com/aribashaikh02/Cybersecurity-Project-Lab)
 
+</div>
 </details>
 
 <details>
 <summary><strong><span style="color:#e05a70">CASE 004 — Problem-Solving Practice</span></strong> &nbsp; · &nbsp; Coding exercises &nbsp; <code>↗ Expand case file</code></summary>
+<div align="center">
 
 <br/>
 
@@ -224,13 +245,16 @@ A collection of coding practice and algorithm exercises to build consistency and
 
 [**OPEN LEETCODE REPO ↗**](https://github.com/aribashaikh02/leetcode)
 
+</div>
 </details>
 
 ---
 
-<h2><span style="color:#e05a70">`05 — EXPERIENCE LOG`</span></h2>
+<div align="center">
+<h2><span style="color:#e05a70">05 — EXPERIENCE LOG</span></h2>
+</div>
 
-<table>
+<table align="center">
 <tr>
 <td valign="top" width="24%">
 
@@ -261,11 +285,16 @@ University-sponsored internship
 </tr>
 </table>
 
-**Open-source contribution:** [Code-Not-Found ↗](https://github.com/Shubhajit137/Code-Not-Found)
+<div align="center">
+<strong><span style="color:#e05a70">OPEN-SOURCE CONTRIBUTION</span></strong>  
+[Code-Not-Found ↗](https://github.com/Shubhajit137/Code-Not-Found)
+</div>
 
 ---
 
-<h2><span style="color:#e05a70">`06 — GITHUB SIGNAL`</span></h2>
+<div align="center">
+<h2><span style="color:#e05a70">06 — GITHUB SIGNAL</span></h2>
+</div>
 
 <div align="center">
 
@@ -280,32 +309,34 @@ University-sponsored internship
 
 ---
 
-<h2><span style="color:#e05a70">`07 — CURRENT QUESTS`</span></h2>
+<div align="center">
+<h2><span style="color:#e05a70">07 — CURRENT QUESTS</span></h2>
+</div>
 
-<table>
+<table align="center">
 <tr>
 <td width="50%" valign="top">
 
 <strong><span style="color:#e05a70">IN THE WORKSHOP</span></strong>
 
-- Build responsive web applications
-- Create practical cybersecurity projects
-- Strengthen backend and API fundamentals
-- Apply secure coding principles
-- Improve Git and GitHub workflows
+Build responsive web applications  
+Create practical cybersecurity projects  
+Strengthen backend and API fundamentals  
+Apply secure coding principles  
+Improve Git and GitHub workflows
 
 </td>
 <td width="50%" valign="top">
 
 <strong><span style="color:#e05a70">ON THE RADAR</span></strong>
 
-- Full-stack development
-- Web application security
-- Digital forensics and incident response
-- Network security and vulnerability assessment
-- Ethical hacking in authorized lab environments
-- Python security automation
-- AI / ML foundations
+Full-stack development  
+Web application security  
+Digital forensics and incident response  
+Network security and vulnerability assessment  
+Ethical hacking in authorized lab environments  
+Python security automation  
+AI / ML foundations
 
 </td>
 </tr>
@@ -315,7 +346,9 @@ University-sponsored internship
 
 <div align="center">
 
-<h2><span style="color:#e05a70">`08 — OPEN CHANNEL`</span></h2>
+<div align="center">
+<h2><span style="color:#e05a70">08 — OPEN CHANNEL</span></h2>
+</div>
 
 **Have a project, security idea, or open-source issue? Let's connect.**
 
