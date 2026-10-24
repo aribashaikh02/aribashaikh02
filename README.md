@@ -30,8 +30,8 @@
 
 <div align="center">
 
-#<div align="center">
-<h2><span style="color:#e05a70">01 — THE OPERATOR</span></h2>
+<div align="center">
+<h2 align="center"><span style="color:#e05a70">01 — THE OPERATOR</span></h2>
 </div>
 
 **Frontend developer in progress. Cybersecurity at the core.**
@@ -75,7 +75,7 @@ Git · GitHub · Projects · Hackathons
 ---
 
 <div align="center">
-<h2><span style="color:#e05a70">02 — QUICK SCAN</span></h2>
+<h2 align="center"><span style="color:#e05a70">02 — QUICK SCAN</span></h2>
 </div>
 
 <table align="center">
@@ -120,7 +120,7 @@ Internships · Freelance projects · Open-source collaboration · Hackathons
 ---
 
 <div align="center">
-<h2><span style="color:#e05a70">03 — TOOLKIT</span></h2>
+<h2 align="center"><span style="color:#e05a70">03 — TOOLKIT</span></h2>
 </div>
 
 <div align="center">
@@ -174,14 +174,17 @@ Internships · Freelance projects · Open-source collaboration · Hackathons
 </tr>
 </table>
 
+<br/>
+<br/>
+
 ---
 
 <div align="center">
-<h2><span style="color:#e05a70">04 — FEATURED BUILDS</span></h2>
+<h2 align="center"><span style="color:#e05a70">04 — FEATURED BUILDS</span></h2>
 </div>
 
 <details>
-<summary><strong><span style="color:#e05a70">CASE 001 — VeriCert</span></strong> &nbsp; · &nbsp; Digital Certificate Verification System &nbsp; <code>↗ Expand case file</code></summary>
+<summary align="center"><strong><span style="color:#e05a70">CASE 001 — VeriCert</span></strong> &nbsp; · &nbsp; Digital Certificate Verification System &nbsp; <code>↗ Expand case file</code></summary>
 <div align="center">
 
 <br/>
@@ -202,7 +205,7 @@ A web-based certificate verification concept designed to make authenticity check
 </details>
 
 <details>
-<summary><strong><span style="color:#e05a70">CASE 002 — Website Screenshot Generator</span></strong> &nbsp; · &nbsp; Flask web tool &nbsp; <code>↗ Expand case file</code></summary>
+<summary align="center"><strong><span style="color:#e05a70">CASE 002 — Website Screenshot Generator</span></strong> &nbsp; · &nbsp; Flask web tool &nbsp; <code>↗ Expand case file</code></summary>
 <div align="center">
 
 <br/>
@@ -223,7 +226,7 @@ A Flask-based web tool that accepts a URL, requests a screenshot through the Scr
 </details>
 
 <details>
-<summary><strong><span style="color:#e05a70">CASE 003 — Cybersecurity Project Lab</span></strong> &nbsp; · &nbsp; Security learning lab &nbsp; <code>↗ Expand case file</code></summary>
+<summary align="center"><strong><span style="color:#e05a70">CASE 003 — Cybersecurity Project Lab</span></strong> &nbsp; · &nbsp; Security learning lab &nbsp; <code>↗ Expand case file</code></summary>
 <div align="center">
 
 <br/>
@@ -236,7 +239,7 @@ A learning space for practical cybersecurity projects, tools, and experiments as
 </details>
 
 <details>
-<summary><strong><span style="color:#e05a70">CASE 004 — Problem-Solving Practice</span></strong> &nbsp; · &nbsp; Coding exercises &nbsp; <code>↗ Expand case file</code></summary>
+<summary align="center"><strong><span style="color:#e05a70">CASE 004 — Problem-Solving Practice</span></strong> &nbsp; · &nbsp; Coding exercises &nbsp; <code>↗ Expand case file</code></summary>
 <div align="center">
 
 <br/>
@@ -251,7 +254,7 @@ A collection of coding practice and algorithm exercises to build consistency and
 ---
 
 <div align="center">
-<h2><span style="color:#e05a70">05 — EXPERIENCE LOG</span></h2>
+<h2 align="center"><span style="color:#e05a70">05 — EXPERIENCE LOG</span></h2>
 </div>
 
 <table align="center">
@@ -293,7 +296,7 @@ University-sponsored internship
 ---
 
 <div align="center">
-<h2><span style="color:#e05a70">06 — GITHUB SIGNAL</span></h2>
+<h2 align="center"><span style="color:#e05a70">06 — GITHUB SIGNAL</span></h2>
 </div>
 
 <div align="center">
@@ -310,13 +313,14 @@ University-sponsored internship
 ---
 
 <div align="center">
-<h2><span style="color:#e05a70">07 — CURRENT QUESTS</span></h2>
+<h2 align="center"><span style="color:#e05a70">07 — CURRENT QUESTS</span></h2>
 </div>
 
 <table align="center">
 <tr>
 <td width="50%" valign="top">
 
+<div align="center">
 <strong><span style="color:#e05a70">IN THE WORKSHOP</span></strong>
 
 Build responsive web applications  
@@ -324,10 +328,12 @@ Create practical cybersecurity projects
 Strengthen backend and API fundamentals  
 Apply secure coding principles  
 Improve Git and GitHub workflows
+</div>
 
 </td>
 <td width="50%" valign="top">
 
+<div align="center">
 <strong><span style="color:#e05a70">ON THE RADAR</span></strong>
 
 Full-stack development  
@@ -337,6 +343,7 @@ Network security and vulnerability assessment
 Ethical hacking in authorized lab environments  
 Python security automation  
 AI / ML foundations
+</div>
 
 </td>
 </tr>
@@ -347,7 +354,7 @@ AI / ML foundations
 <div align="center">
 
 <div align="center">
-<h2><span style="color:#e05a70">08 — OPEN CHANNEL</span></h2>
+<h2 align="center"><span style="color:#e05a70">08 — OPEN CHANNEL</span></h2>
 </div>
 
 **Have a project, security idea, or open-source issue? Let's connect.**
