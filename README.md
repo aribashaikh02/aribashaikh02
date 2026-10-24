@@ -134,6 +134,7 @@ Internships · Freelance projects · Open-source collaboration · Hackathons
 <img src="https://skillicons.dev/icons?i=js,react,nodejs,java&theme=dark" alt="JavaScript, React, Node.js, Java"/>
 
 </div>
+<br>
 
 <table align="center">
 <tr>
