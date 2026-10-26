@@ -2,7 +2,7 @@
 
 <img width="100%" src="./assets/security-sigil-animation.gif" alt="Animated cyber-forensics security sigil with subtle crimson circuit animation"/>
 
-<sub>CYBER FORENSICS · FRONTEND ENGINEERING · OPEN SOURCE</sub>
+<sub>CYBER FORENSICS · FULL-STACK ENGINEERING · OPEN SOURCE</sub>
 
 <br/>
 
