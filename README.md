@@ -291,7 +291,7 @@ University-sponsored internship
 
 <div align="center">
 <strong><span style="color:#e05a70">OPEN-SOURCE CONTRIBUTION</span></strong>  
-[Code-Not-Found ↗]([https://github.com/Shubhajit137/Code-Not-Found](https://github.com/Shubhajit137/Code-Not-Found.git))
+[Code-Not-Found ↗](https://github.com/Shubhajit137/Code-Not-Found.git)
 </div>
 
 ---
