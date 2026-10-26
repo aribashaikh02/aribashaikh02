@@ -200,7 +200,7 @@ A web-based certificate verification concept designed to make authenticity check
 
 <strong><span style="color:#f28a9a">Stack:</span></strong> `JavaScript` `HTML` `CSS`
 
-[**VIEW REPOSITORY ↗**](https://github.com/aribashaikh02/vericert) &nbsp; · &nbsp; [Live website ↗](https://aribashaikh02.github.io/vericert/)
+[**VIEW REPOSITORY**↗](https://github.com/aribashaikh02/vericert) &nbsp; · &nbsp; [Live website ↗](https://aribashaikh02.github.io/vericert/)
 
 </div>
 </details>
@@ -221,7 +221,7 @@ A Flask-based web tool that accepts a URL, requests a screenshot through the Scr
 
 <strong><span style="color:#f28a9a">Stack:</span></strong> `Python` `Flask` `Jinja2` `Bootstrap`
 
-[**VIEW REPOSITORY ↗**](https://github.com/aribashaikh02/screenshot-generator-website) &nbsp; · &nbsp; [Live website ↗](https://screenshot-generator-website.onrender.com/)
+[**VIEW REPOSITORY**↗](https://github.com/aribashaikh02/screenshot-generator-website) &nbsp; · &nbsp; [Live website ↗](https://screenshot-generator-website.onrender.com/)
 
 </div>
 </details>
@@ -234,7 +234,7 @@ A Flask-based web tool that accepts a URL, requests a screenshot through the Scr
 
 A learning space for practical cybersecurity projects, tools, and experiments as the security portfolio grows.
 
-[**OPEN PROJECT LAB ↗**](https://github.com/aribashaikh02/Cybersecurity-Project-Lab)
+[**OPEN PROJECT LAB**↗](https://github.com/aribashaikh02/Cybersecurity-Project-Lab)
 
 </div>
 </details>
@@ -247,7 +247,7 @@ A learning space for practical cybersecurity projects, tools, and experiments as
 
 A collection of coding practice and algorithm exercises to build consistency and strengthen problem-solving fundamentals.
 
-[**OPEN LEETCODE REPO ↗**](https://github.com/aribashaikh02/leetcode)
+[**OPEN LEETCODE REPO**↗](https://github.com/aribashaikh02/leetcode)
 
 </div>
 </details>
@@ -291,7 +291,7 @@ University-sponsored internship
 
 <div align="center">
 <strong><span style="color:#e05a70">OPEN-SOURCE CONTRIBUTION</span></strong>  
-[Code-Not-Found ↗](https://github.com/Shubhajit137/Code-Not-Found)
+[Code-Not-Found ↗]([https://github.com/Shubhajit137/Code-Not-Found](https://github.com/Shubhajit137/Code-Not-Found.git))
 </div>
 
 ---
