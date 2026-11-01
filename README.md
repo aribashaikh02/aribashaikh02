@@ -22,7 +22,7 @@
 &nbsp;
 <img src="https://img.shields.io/github/followers/aribashaikh02?style=flat-square&color=ef233c&labelColor=11090b&label=NETWORK" alt="GitHub followers"/>
 &nbsp;
-<img src="https://img.shields.io/badge/BASE-PUNE%2C%20INDIA-7f101b?style=flat-square&labelColor=11090b" alt="Base"/>
+<img src="https://img.shields.io/badge/BASE-MUMBAI%2C%20INDIA-7f101b?style=flat-square&labelColor=11090b" alt="Base"/>
 
 </div>
 
